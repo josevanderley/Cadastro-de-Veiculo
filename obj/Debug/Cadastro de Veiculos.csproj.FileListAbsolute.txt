@@ -1,0 +1,7 @@
+C:\Users\Ornare\source\repos\Cadastro de Veiculos\bin\Debug\Cadastro de Veiculos.exe.config
+C:\Users\Ornare\source\repos\Cadastro de Veiculos\bin\Debug\Cadastro de Veiculos.exe
+C:\Users\Ornare\source\repos\Cadastro de Veiculos\bin\Debug\Cadastro de Veiculos.pdb
+C:\Users\Ornare\source\repos\Cadastro de Veiculos\obj\Debug\Cadastro de Veiculos.csproj.AssemblyReference.cache
+C:\Users\Ornare\source\repos\Cadastro de Veiculos\obj\Debug\Cadastro de Veiculos.csproj.CoreCompileInputs.cache
+C:\Users\Ornare\source\repos\Cadastro de Veiculos\obj\Debug\Cadastro de Veiculos.exe
+C:\Users\Ornare\source\repos\Cadastro de Veiculos\obj\Debug\Cadastro de Veiculos.pdb
